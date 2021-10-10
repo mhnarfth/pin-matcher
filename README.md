@@ -1,3 +1,3 @@
 ﻿# pin-matcher
 
-Live Link: https://mhnarfth.github.io/pin-matcher/
+Live Link: https://pin-matcher-mhnarfth.netlify.app//
